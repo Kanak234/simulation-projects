@@ -1,0 +1,6 @@
+Patients treated|147
+Average waiting time (min)|64.7
+Severity-1 (critical) avg wait (min)|3.2
+Severity-5 (minor) avg wait (min)|212.9
+Doctor utilisation (%)|101.9
+Maximum queue length|32

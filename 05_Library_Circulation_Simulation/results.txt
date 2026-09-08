@@ -1,0 +1,5 @@
+Total books issued (60 days)|1177
+Fines collected (Rs.)|1422
+Unmet reservations|887
+Most demanded category|Programming
+7-day MA forecast error (MAPE %)|25.5
